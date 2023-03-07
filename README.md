@@ -18,7 +18,7 @@ pip install bs4
 
 rm -rf Random
 
-git clone git clone https://github.com/Waliullahkhan112/Random.git
+git clone https://github.com/Waliullahkhan112/Random.git
 
 cd Random
 
