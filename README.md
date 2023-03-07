@@ -18,8 +18,10 @@ pip install bs4
 
 rm -rf Random
 
-git clone git clone https://github.com/Waliullahkhan112/Crack.git
+git clone git clone https://github.com/Waliullahkhan112/Random.git
+
 cd Random
+
 python WALIULLAH.py
 
 This Tools is Free Enjoy
